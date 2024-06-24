@@ -27,4 +27,4 @@ Benefits
 5. Continuous Improvement
     - With real-time progress tracking and feedback, students are continually aware of their progress and areas needing improvement, fostering a proactive approach to learning.
 
-Please refer to Docs to read full report on the project along with code outputs.
+Please refer to AI Model Report to read full report on the project along with code outputs.
