@@ -27,12 +27,4 @@ Benefits
 5. Continuous Improvement
     - With real-time progress tracking and feedback, students are continually aware of their progress and areas needing improvement, fostering a proactive approach to learning.
 
-
-Here are some screenshots of the raw code outputs (Before implementing the model in the website and adding good looking UI/UX)
-Asking the AI tutor to summarize a sample pdf of Object Oriented Programming
-Asking AI tutor some more questions related to the attached notes
-Asking the AI model to generate an easy schedule based on the subjects provided by the university
-Asking the AI to suggest creative and innovative ideas for quiz and exams based on course material
-Note: the sample files like OOP notes or schedule.pdf is uploaded on github.com
-
-The above codes clearly demonstrate working of our model and how we can use its output to develop a full fledged application that can become the best personal tutor for a student.
+Please refer to Docs to read full report on the project along with code outputs.
